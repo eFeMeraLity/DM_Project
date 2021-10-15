@@ -8,6 +8,7 @@ Requirements
 * python 3.6
 * tensorflow 2.0
 
-Run ```python main.py```
+Run ```data_process.sh``` to download and preprocess the dataset.
+Run ```python main.py```.
 
 
