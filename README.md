@@ -4,6 +4,8 @@ Refer to [zhougr1993](https://github.com/zhougr1993/DeepInterestNetwork) and [mo
 This code performs similarly to the paper on ml-20 and amazon datasets.  
 You can modify the ```model``` called in ```main.py``` and then utilize a model such as Base, DIN, DIEN.  
 
+Fork [yongqyu/DIEN-tf2](https://github.com/yongqyu/DIEN-tf2) and [zxxwin/DIEN-tf2](https://github.com/zxxwin/DIEN-tf2).
+
 Requirements:
 * python >= 3.6
 * tensorflow >= 2.0
