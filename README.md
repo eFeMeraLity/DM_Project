@@ -12,5 +12,5 @@ Requirements:
 2. Run ```python main.py```.
 
 ## Structure of Presentation
-### Dataset
+1. Dataset
 * Amazon Dataset (Electronics): http://jmcauley.ucsd.edu/data/amazon/
