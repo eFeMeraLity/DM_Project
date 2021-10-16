@@ -13,4 +13,4 @@ Requirements:
 
 ## Structure of Presentation
 ### Dataset
-# Amazon Dataset (Electronics): http://jmcauley.ucsd.edu/data/amazon/
+* Amazon Dataset (Electronics): http://jmcauley.ucsd.edu/data/amazon/
