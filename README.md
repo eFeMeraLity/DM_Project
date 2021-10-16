@@ -1,4 +1,4 @@
-## Deep Interest Network for Click-Through Rate Prediction<br/>Deep Interest Evolution Network for Click-Through Rate Prediction
+# Deep Interest Network for Click-Through Rate Prediction<br/>Deep Interest Evolution Network for Click-Through Rate Prediction
 
 Refer to [zhougr1993](https://github.com/zhougr1993/DeepInterestNetwork) and [mouna99](https://github.com/mouna99/dien) code and converte it to TensorFlow 2.0.  
 This code performs similarly to the paper on ml-20 and amazon datasets.  
@@ -11,4 +11,5 @@ Requirements:
 1. Run ```data_process.sh``` to download and preprocess the dataset.
 2. Run ```python main.py```.
 
-
+## Structure of Presentation
+### Dataset
